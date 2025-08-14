@@ -1,0 +1,2 @@
+version=2
+link=https://drive.google.com/uc?export=download&id=ID_APK
