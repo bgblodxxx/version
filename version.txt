@@ -1,2 +1,2 @@
-version=3.0
+version=1.0
 link=https://www.mediafire.com/file/7l9shs2kfiy0qe6/MONEY.apk/file
